@@ -1,4 +1,3 @@
-Basic repository demonstrating the rot_n encryption, a generalisation of ROT13:
-https://en.wikipedia.org/wiki/ROT13
+Basic repository for testing constexpr 
 
 
